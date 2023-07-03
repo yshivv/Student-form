@@ -2,8 +2,8 @@
 
 This is a simple web application built using Flask that allows users to submit student information through a form. The submitted data is stored in a SQLite database.
 
-![Light](static\images\Image1.png)
-![Dark](static\images\Image2.png)
+![Light](static/images/Image1.png)
+![Dark](static/images/Image2.png)
 
 ## Installation
 
